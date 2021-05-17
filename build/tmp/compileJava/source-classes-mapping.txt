@@ -1,0 +1,4 @@
+org/factoriaf5/store/StoreApplication.java
+ org.factoriaf5.store.StoreApplication
+org/factoriaf5/store/controllers/ProductController.java
+ org.factoriaf5.store.controllers.ProductController
